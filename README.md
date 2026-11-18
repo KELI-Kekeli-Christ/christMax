@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="README.md"><b>English</b></a>
+  &nbsp;·&nbsp;
+  <a href="README.fr.md">Français</a>
+  &nbsp;·&nbsp;
+  <a href="README.es.md">Español</a>
+</p>
+
 # 🎄 Christmas Magic Website
 
 Bienvenue sur le projet **Christmas Magic Website**, un site web interactif et festif conçu avec **React**. Ce site offre une expérience immersive pour célébrer la magie de Noël avec des animations, des fonctionnalités interactives et des surprises quotidiennes.
